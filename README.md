@@ -1,6 +1,6 @@
 # Dilmi Edirisinghe — Portfolio
 
-A personal portfolio site built with Next.js 14 (App Router), TypeScript, and Tailwind CSS.
+A personal portfolio site built with TypeScript, and Tailwind CSS.
 
 ## Design concept
 
