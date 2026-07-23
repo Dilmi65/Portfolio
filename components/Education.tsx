@@ -5,7 +5,7 @@ const education = [
     period: "2024 — Present",
   },
   {
-    title: "Degree in Psychology & Counselling",
+    title: "BA in Psychology & Counselling",
     place: "IMBS Green Campus",
     period: "2025 — Present",
   },
@@ -20,7 +20,7 @@ export default function Education() {
   return (
     <section id="education" className="border-t border-line bg-paperDim">
       <div className="mx-auto max-w-content px-6 py-20 md:px-10">
-        <p className="eyebrow text-teal">02 — Education</p>
+        <p className="eyebrow text-teal">Education</p>
         <h2 className="mt-3 font-display text-3xl text-ink md:text-4xl">
           Academic timeline
         </h2>

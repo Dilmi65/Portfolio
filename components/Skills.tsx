@@ -4,9 +4,12 @@ const technical = [
   "MySQL",
   "Bootstrap",
   "Java (coursework)",
-  "Angular (coursework)",
-  "Microsoft Office",
-  "Canva",
+  "JavaScript",
+  "PHP",
+  "Next.js",
+  "Tailwind CSS",
+  "HTML",
+  "CSS",
 ];
 
 const soft = [
@@ -22,7 +25,7 @@ const soft = [
 export default function Skills() {
   return (
     <section id="skills" className="mx-auto max-w-content px-6 py-20 md:px-10">
-      <p className="eyebrow text-coral">05 — Skills</p>
+      <p className="eyebrow text-coral">Skills</p>
       <h2 className="mt-3 font-display text-3xl text-ink md:text-4xl">
         What I bring to a team
       </h2>

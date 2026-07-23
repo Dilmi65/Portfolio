@@ -32,7 +32,7 @@ export default function Hero() {
           </div>
           <div className="mt-8 flex gap-6 font-body text-sm text-ink/70">
             <a
-              href="https://www.linkedin.com/in/dilmi-edirisingha-88416b326"
+              href="https://www.linkedin.com/in/dilmiedirisinghe"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-colors hover:text-teal"

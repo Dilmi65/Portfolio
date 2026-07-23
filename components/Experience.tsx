@@ -1,7 +1,7 @@
 export default function Experience() {
   return (
     <section id="experience" className="mx-auto max-w-content px-6 py-20 md:px-10">
-      <p className="eyebrow text-coral">03 — Experience</p>
+      <p className="eyebrow text-coral"> Experience</p>
       <h2 className="mt-3 font-display text-3xl text-ink md:text-4xl">
         Where I&apos;ve worked
       </h2>

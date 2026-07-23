@@ -3,7 +3,7 @@ export default function About() {
     <section id="about" className="mx-auto max-w-content px-6 py-20 md:px-10">
       <div className="grid grid-cols-1 gap-10 md:grid-cols-12">
         <div className="md:col-span-4">
-          <p className="eyebrow text-coral">01 — About</p>
+          <p className="eyebrow text-coral"> About</p>
           <h2 className="mt-3 font-display text-3xl text-ink md:text-4xl">
             Two disciplines, one way of working
           </h2>
