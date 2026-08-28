@@ -19,7 +19,7 @@ export default function Contact() {
             dilmiedirisinghe.official@gmail.com
           </a>
           <a
-            href="tel:0702609815"
+            href="tel:0761629893"
             className="rounded-xl border border-paper/20 px-5 py-4 transition-colors hover:border-coral"
           >
             <span className="eyebrow block text-paper/50">Phone</span>
