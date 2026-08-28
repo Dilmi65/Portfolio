@@ -23,7 +23,7 @@ export default function Contact() {
             className="rounded-xl border border-paper/20 px-5 py-4 transition-colors hover:border-coral"
           >
             <span className="eyebrow block text-paper/50">Phone</span>
-            070-2609815
+            076-1629893
           </a>
           <a
             href="https://www.linkedin.com/in/dilmiedirisinghe"
