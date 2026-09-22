@@ -24,7 +24,7 @@ export default function Hero() {
               View my work
             </a>
             <a
-              href="/Dilmi_Edirisinghe_Resume.pdf"
+              href="/Dilmi Edirisinghe.pdf"
               className="rounded-full border border-ink px-6 py-3 font-body text-sm font-medium text-ink transition-colors hover:border-coral hover:text-coral"
             >
               Download résumé
